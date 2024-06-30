@@ -152,7 +152,7 @@ export const songs = [
 },
 	{
     name: "Uma Musume: Pretty Derby Season 3  - Lost Shine by Hinaki Yano",
-    videoId : "https://ladist1.catbox.video/m5m0x7.mp3",
+    videoId : "https://ladist1.catbox.video/17f3cy.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -162,7 +162,7 @@ export const songs = [
 },
 	{
     name: "Shakugan no Shana III (Final) - u/n by Mami Kawada",
-    videoId : "https://ladist1.catbox.video/a5ylux.mp3",
+    videoId : "https://ladist1.catbox.video/61r7o3.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -172,7 +172,7 @@ export const songs = [
 },
 	{
     name: "Kanojo ga Koushaku-tei ni Itta Riyuu  - Fireworks by MindaRyn",
-    videoId : "https://ladist1.catbox.video/ugb9fl.mp3",
+    videoId : "https://ladist1.catbox.video/44f6w7.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -182,7 +182,7 @@ export const songs = [
 },
 	{
     name: "No Game No Life Zero - THERE IS A REASON by Konomi Suzuki",
-    videoId : "https://ladist1.catbox.video/n8cq75.mp3",
+    videoId : "https://ladist1.catbox.video/450jyl.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -192,7 +192,7 @@ export const songs = [
 },
 	{
     name: "Chainsaw Man -  CHAINSAW BLOOD by Vaundy",
-    videoId : "https://ladist1.catbox.video/31jb1l.mp3",
+    videoId : "https://ladist1.catbox.video/p9bkcr.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -202,7 +202,7 @@ export const songs = [
 },
 	{
     name: "Rewrite 2nd Season - Canoe by Aoi Tada",
-    videoId : "https://ladist1.catbox.video/b50sfe.mp3",
+    videoId : "https://ladist1.catbox.video/ufpzta.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -212,7 +212,7 @@ export const songs = [
 },
 	{
     name: "xxxHOLiC - Kagerou by BUCK-TICK",
-    videoId : "https://ladist1.catbox.video/cohst0.mp3",
+    videoId : "https://ladist1.catbox.video/9tq193.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -222,7 +222,7 @@ export const songs = [
 },
 	{
     name: "Gintama: The Final - Wadachi by SPYAIR",
-    videoId : "https://ladist1.catbox.video/6h40f3.mp3",
+    videoId : "https://ladist1.catbox.video/ggww6g.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -232,7 +232,7 @@ export const songs = [
 },
 	{
     name: "3-gatsu no Lion -  Fighter by BUMP OF CHICKEN",
-    videoId : "https://ladist1.catbox.video/cc4hhx.mp3",
+    videoId : "https://ladist1.catbox.video/f1ye43.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -242,7 +242,7 @@ export const songs = [
 },
 	{
     name: "Angel Beats! -  Ichiban no Takaramono by LiSA",
-    videoId : "https://ladist1.catbox.video/dd4xds.mp3",
+    videoId : "https://ladist1.catbox.video/mrxgqk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -252,7 +252,7 @@ export const songs = [
 },
 	{
     name: "Little Busters! EX - Saya's Song by Lia",
-    videoId : "https://ladist1.catbox.video/la259q.mp3",
+    videoId : "https://ladist1.catbox.video/wpbxps.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -262,7 +262,7 @@ export const songs = [
 },
 	{
     name: "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo - Saisei Sanbikyoku by Starlight Kuku-gumi",
-    videoId : "https://ladist1.catbox.video/38388t.mp3",
+    videoId : "https://ladist1.catbox.video/hfwfkr.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -272,7 +272,7 @@ export const songs = [
 },
 	{
     name: "Memories Off #5 Togireta Film - Romancing Story by Ayane",
-    videoId : "https://ladist1.catbox.video/y6wrwd.mp3",
+    videoId : "https://ladist1.catbox.video/28f04o.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -282,7 +282,7 @@ export const songs = [
 },
 	{
     name: "Gekijouban Tsubasa Chronicle: Torikago no Kuni no Himegimi - Amrita by Yui Makino",
-    videoId : "https://ladist1.catbox.video/lcgxvt.mp3",
+    videoId : "https://ladist1.catbox.video/y7smfz.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -292,7 +292,7 @@ export const songs = [
 },
 	{
     name: "Gekijouban KanColle - Kikan by Shiena Nishizawa",
-    videoId : "https://ladist1.catbox.video/7omrta.mp3",
+    videoId : "https://ladist1.catbox.video/z6nla4.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -302,7 +302,7 @@ export const songs = [
 },
 	{
     name: "Ooyukiumi no Kaina: Hoshi no Kenja - Gekkouyoku by Yorushika",
-    videoId : "https://ladist1.catbox.video/usnmti.mp3",
+    videoId : "https://ladist1.catbox.video/06jdmf.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -312,7 +312,7 @@ export const songs = [
 },
 	{
     name: "Natsu e no Tunnel, Sayonara no Deguchi - Finale. by eill",
-    videoId : "https://ladist1.catbox.video/ku7ggp.mp3",
+    videoId : "https://ladist1.catbox.video/85o7ww.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -322,7 +322,7 @@ export const songs = [
 },
 	{
     name: "Kono Minikuku mo Utsukushii Sekai - Kimi ni Aete by Ayako Kawasumi & Ai Shimizu",
-    videoId : "https://ladist1.catbox.video/ew24o1.mp3",
+    videoId : "https://ladist1.catbox.video/1gyhkj.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -332,7 +332,7 @@ export const songs = [
 },
 	{
     name: "Kidou Senshi Gundam: Suisei no Majo - Kimiyo Kedakakuare by Shiyui",
-    videoId : "https://ladist1.catbox.video/88x0wu.mp3",
+    videoId : "https://ladist1.catbox.video/2nwjpp.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -342,7 +342,7 @@ export const songs = [
 },
 	{
     name: "Mekakucity Actors - Lost Time Memory by Jin ft. Kouta Matsuyama (BYEE the ROUND)",
-    videoId : "https://ladist1.catbox.video/ukiymc.mp3",
+    videoId : "https://ladist1.catbox.video/et24zb.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -352,7 +352,7 @@ export const songs = [
 },
 	{
     name: "Tensei shitara Slime Datta Ken - Reimei by TRUE",
-    videoId : "https://ladist1.catbox.video/47dt21.mp3",
+    videoId : "https://ladist1.catbox.video/252qgv.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -362,7 +362,7 @@ export const songs = [
 },
 	{
     name: "Aikatsu Friends!: Kagayaki no Jewel - Be star by Hibiki from BEST FRIENDS!",
-    videoId : "https://ladist1.catbox.video/ef9746.mp3",
+    videoId : "https://ladist1.catbox.video/divw3s.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -372,7 +372,7 @@ export const songs = [
 },
 	{
     name: "Arifureta Shokugyou de Sekai Saikyou 2nd Season - Gedou Sanka by FantasticYouth",
-    videoId : "https://ladist1.catbox.video/m5i4kb.mp3",
+    videoId : "https://ladist1.catbox.video/dx12ay.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -382,7 +382,7 @@ export const songs = [
 },
 	{
     name: "Boruto: Naruto Next Generations - Who are you? by PELICAN FANCLUB",
-    videoId : "https://ladist1.catbox.video/2x7scs.mp3",
+    videoId : "https://ladist1.catbox.video/ms1ntl.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -392,7 +392,7 @@ export const songs = [
 },
 	{
     name: "Kinsou no Vermeil - Mortal With You by Mili",
-    videoId : "https://ladist1.catbox.video/lmep3l.mp3",
+    videoId : "https://ladist1.catbox.video/9hdnne.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -402,7 +402,7 @@ export const songs = [
 },
 	{
     name: "SD Gundam World Heroes - Koganezora by HaKoniwalily",
-    videoId : "https://ladist1.catbox.video/cftqi9.mp3",
+    videoId : "https://ladist1.catbox.video/10gf66.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
